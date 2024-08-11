@@ -1,1 +1,2 @@
 # Codealpha_Logistic_regression
+## The Titanic dataset is often used for machine learning classification tasks, particularly for predicting survival outcomes (Survived column) using features like passenger class (Pclass), name, sex, age, number of siblings/spouses (SibSp), number of parents/children (Parch), ticket number, fare, cabin, and port of embarkation (Embarked). By applying Logistic Regression, a common technique for binary classification, project aim to predict whether a passenger survived or not based on these features. 
